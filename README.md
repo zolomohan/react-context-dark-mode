@@ -1,3 +1,7 @@
+# Dark Mode in React Applications Using Context API and Hooks
+
+If you'd like to learn how to build this application, refer to this [article](https://zolomohan.hashnode.dev/dark-mode-for-react-applications-using-context-api-and-hooks).
+
 To clone the repository, run
 
 ```bash
